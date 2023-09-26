@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu-yu&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu-yu" /> </p>
 
-- 🔭 I’m currently working on **Blinkit-Clone**
+- 🔭 I’m currently working on project **Blinkit-Clone**
 
 - 🌱 I’m currently learning **Javascript, React-Js, Node-Js.**
 
-- 👯 I’m looking to collaborate on **Spotify-clone**
+- 👯 I’m looking to collaborate on project **Spotify-clone**
 
 - 🤝 I’m looking for help with **Disnep Hotstar-Clone**
 
